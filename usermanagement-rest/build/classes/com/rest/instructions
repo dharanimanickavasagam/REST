@@ -1,0 +1,5 @@
+URL to invoke the web services from POSTMAN
+http://localhost:8080/usermanagement-rest/rest/UserService/users/
+
+http://localhost:8080/usermanagement-rest/rest/UserService/getUsers/
+
